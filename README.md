@@ -51,7 +51,7 @@ const aya = {
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-   <img https://img.shields.io/badge/RUBY-CC342D?style=for-the-badge&logo=ruby&logoColor=white/>
+   <img src="https://img.shields.io/badge/RUBY-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
 </p>
 
 <!-- Stats -->
