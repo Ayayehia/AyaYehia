@@ -7,7 +7,7 @@
 </div>
 
 <!-- Introduction -->
-<h1 align="center">✨ Hello World, I'm Aya Yehia ✨</h1>
+<h1 align="center">✨ I'm Aya Yehia ✨</h1>
 <h3 align="center">Crafting Beautiful Digital Experiences | Frontend Engineer</h3>
 
 <p align="center">
